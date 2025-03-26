@@ -1,4 +1,4 @@
 @extends('welcome')
 @section('content')
-<livewire:product.productaction />
+<H1>products</H1>
 @endsection

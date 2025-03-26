@@ -1,4 +1,5 @@
 @extends('welcome')
 @section('content')
-<livewire:customer.customeraction />
+<h1 class="text-3xl font-bold mb-6">Customers</h1>
+<livewire:customer.customer-crud />
 @endsection
